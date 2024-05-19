@@ -1,4 +1,4 @@
-# Analise-de-chamadas---IA
+# Analise_de_chamadas_IA
 Projeto de Transcrição e Análise de Sentimentos
 
 Descrição do Projeto:
