@@ -48,6 +48,17 @@ Como Executar:
 Instalar as dependências listadas em requirements.txt
   - pip install -r requirements.txt
   - python -m textblob.download_corpora
+Baixar e instalar o ffmpeg:
+  No Windows:
+  - Baixe o executável do ffmpeg do site oficial: https://ffmpeg.org/download.html
+  - Extraia o conteúdo do arquivo compactado.
+  - Adicione o caminho do diretório bin do ffmpeg ao PATH do sistema.
+  No macOS:
+  - bash
+  - brew install ffmpeg
+  No Linux (Debian/Ubuntu):
+  - bash
+  - sudo apt-get install ffmpeg
 
 Configuração da API Key:
   Obtenha uma API Key da AssemblyAI (Versão gratuita).
